@@ -17,7 +17,7 @@ Will be remade soon
 <details>
   <summary> < OOMFIES 3 !!! </summary>
    
-  [𝘼𝙇](https://github.com/one-ordeal) , [𝙆𝙐𝙂𝙊𝙍𝙄](https://github.com/junk-halo) , [𝙃𝘼𝙉𝙈𝙄](https://github.com/lovelydrug) , [𝙈𝙐𝙉𝙀](httos://github.com/MuneTheMoonGuardian) , [𝙋𝙀𝘼𝙍𝙇](https://github.com/pearlsbytheshore) , [𝙔𝙐𝙈𝙄](https://github.com/sukidaikuki) , [𝙅𝘼𝙀](https://github.com/IMustntRunAway) , [𝙇𝙐𝘾𝙄𝙉𝙀/𝙇𝙍𝙊𝙏](https://github.com/kikunya) [𝙑𝘼𝙇](https://github.com/Iostsorrows) , [𝘾𝙊𝙐𝙍𝙏](https://github.com/B1mjini) , [𝙈𝙄𝙉](https://github.com/Miminaki) , [𝘼𝙎𝙏𝙍𝘼](https://github.com/JUSTICEANDORDER) ,
+  [𝘼𝙇](https://github.com/one-ordeal) , [𝙆𝙐𝙂𝙊𝙍𝙄](https://github.com/junk-halo) , [𝙃𝘼𝙉𝙈𝙄](https://github.com/lovelydrug) , [𝙈𝙐𝙉𝙀](https://github.com/MuneTheMoonGuardian) , [𝙋𝙀𝘼𝙍𝙇](https://github.com/pearlsbytheshore) , [𝙔𝙐𝙈𝙄](https://github.com/sukidaikuki) , [𝙅𝘼𝙀](https://github.com/IMustntRunAway) , [𝙇𝙐𝘾𝙄𝙉𝙀/𝙇𝙍𝙊𝙏](https://github.com/kikunya) [𝙑𝘼𝙇](https://github.com/Iostsorrows) , [𝘾𝙊𝙐𝙍𝙏](https://github.com/B1mjini) , [𝙈𝙄𝙉](https://github.com/Miminaki) , [𝘼𝙎𝙏𝙍𝘼](https://github.com/JUSTICEANDORDER) ,
 </details>
           
 <img width="1500" height="314" alt="1000025019" src="https://github.com/user-attachments/assets/ffcbda72-20d4-4ff3-ae69-299f15be37af" />
