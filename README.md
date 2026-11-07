@@ -10,7 +10,7 @@
  ${\textsf{\color{#8C7D7A}𝗍‎𖹭ƙ౿𐓣}}$
  ‎
     </td>
-    <td>[<img width="510" height="506" alt="1000026640" src="https://github.com/user-attachments/assets/6e78a604-78ee-49b0-9d4f-a88fe7c9c5fe" />](https://ezrael.atabook.org/)
+    <td>[<img width="200" height="200" alt="1000026640" src="https://github.com/user-attachments/assets/6e78a604-78ee-49b0-9d4f-a88fe7c9c5fe" />](https://ezrael.atabook.org/)
 </td>
   </tr>
 </table>
