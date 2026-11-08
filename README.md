@@ -3,7 +3,7 @@
   <img width="500" height="500" alt="1000026633" src="https://github.com/user-attachments/assets/ce577bc6-ec71-4f14-b088-2cd9eb1bf5c5" />
 <table>
   <tr>
-    <td>${\textsf{\color{#ECE7D6}ડ𝗈3 3⍵4 ડ𝗈/ડρ 359}}$
+    <td>${\textsf{\color{#ECE7D6}ડ𝗈3 3⍵4 ડ𝗈/ડρ 369}}$
       
   ${\textsf{\color{#C7D2D4}𝗁౿ 。𝗁ꪱᜒო}}$
  ${\textsf{\color{#B5B9BB}/}}$
@@ -17,6 +17,6 @@
 <details>
   <summary> ${\textsf{\color{#C7D2D4}𖹭𝗈ო𝖿ꪱᜒ౿ડ݁ Ი𐑼‎}}$ </summary>
    
-  [ɑᥣ](https://github.com/one-ordeal) , [ƙυ𝗀𝗈𝗋ꪱᜒ](https://github.com/junk-halo) , [𝗁ɑ𐓣ოꪱᜒ](https://github.com/lovelydrug) , [ოυ𐓣౿](https://github.com/MuneTheMoonGuardian) , [ρ౿ɑ𝗋ᥣ](https://github.com/pearlsbytheshore) , [ɣυოꪱᜒ](https://github.com/sukidaikuki) , [ʝɑ౿](https://github.com/IMustntRunAway) , [ᥣυɕꪱᜒ𐓣౿/ᥣ𝗋𝗈𝗍](https://github.com/kikunya) [𝗏ɑᥣ](https://github.com/Iostsorrows) , [ɕ𝗈υ𝗋𝗍](https://github.com/B1mjini) , [ოꪱᜒ𐓣](https://github.com/Miminaki) , [ɑડ𝗍𝗋ɑ](https://github.com/JUSTICEANDORDER) ,
+  [ડɑꪱᜒ](https://github.com/sage-greenkane) , [ɑᥣ](https://github.com/one-ordeal) , [ƙυ𝗀𝗈𝗋ꪱᜒ](https://github.com/junk-halo) , [𝗁ɑ𐓣ოꪱᜒ](https://github.com/lovelydrug) , [ოυ𐓣౿](https://github.com/MuneTheMoonGuardian) , [ρ౿ɑ𝗋ᥣ](https://github.com/pearlsbytheshore) , [ɣυოꪱᜒ](https://github.com/sukidaikuki) , [ʝɑ౿](https://github.com/IMustntRunAway) , [ᥣυɕꪱᜒ𐓣౿/ᥣ𝗋𝗈𝗍](https://github.com/kikunya) [𝗏ɑᥣ](https://github.com/Iostsorrows) , [ɕ𝗈υ𝗋𝗍](https://github.com/B1mjini) , [ოꪱᜒ𐓣](https://github.com/Miminaki) , [ɑડ𝗍𝗋ɑ](https://github.com/JUSTICEANDORDER) ,
 </details>
 <img width="800" height="377" alt="1000026739" src="https://github.com/user-attachments/assets/830c75b4-4234-4a4a-ac82-62542d589ff5" />
